@@ -1,7 +1,7 @@
 Game Launcher
 A PS5-inspired game launcher for Windows. It finds the games you already have installed from every major store, puts them in one clean console-style interface, tracks your playtime, shows ratings and reviews, and can turn your PC into a screensaver showcase.
 > Built with Electron. No account, no cloud, no tracking: everything stays on your PC.
-![Home](<img width="2559" height="1439" alt="Screenshot 2026-11-09 234715" src="https://github.com/user-attachments/assets/6ed94a5c-92f6-453d-b80f-cc8c209b7082" />)
+![Home]([<img width="2559" height="1439" alt="Screenshot 2026-11-09 234715" src="https://github.com/user-attachments/assets/6ed94a5c-92f6-453d-b80f-cc8c209b7082" />](https://github.com/lazysumit/Playnex/blob/0694d20ea3bf188d7a427d3dd3a291a319879bb6/Screenshot%202026-11-09%20234715.png))
 Screenshots use demo data and placeholder artwork. Ratings shown in previews are sample numbers, not real scores.
 Features
 Library
