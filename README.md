@@ -16,17 +16,18 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 
 ****Home and profile****
 
-Console-style Home with a big hero, a shelf of games and quick tabs: Continue, Favourites, Most played, Recently added, plus your own collections.
+* Console-style Home with a big hero, a shelf of games and quick tabs: Continue, Favourites, Most played, Recently added, plus your own collections.
+* Gaming profile with total playtime, sessions, streaks, charts, history, level and trophies.
+* Playtime tracking that records each session while a game runs.
+* Achievements: real Steam achievements (with your Steam Web API key and SteamID) and launcher trophies.
 
-Gaming profile with total playtime, sessions, streaks, charts, history, level and trophies.
-Playtime tracking that records each session while a game runs.
-Achievements: real Steam achievements (with your Steam Web API key and SteamID) and launcher trophies.
-Ratings and reviews
-Open a game's page for a Metacritic headline score and tiles for every platform (PC, PS5, Xbox and so on), with your platform highlighted.
-Critic and user reviews from Metacritic, Steam reviews, and RAWG, so you still get reviews without a Steam key.
-Ratings lookup: search any game by name, even ones you don't own.
+**Ratings and reviews**
+* Open a game's page for a Metacritic headline score and tiles for every platform (PC, PS5, Xbox and so on), with your platform highlighted.
+* Critic and user reviews from Metacritic, Steam reviews, and RAWG, so you still get reviews without a Steam key.
+* Ratings lookup: search any game by name, even ones you don't own.
 ![Ratings](docs/screenshots/details-ratings.png)
-Screensaver
+
+**Screensaver**
 Idle screensaver with a configurable clock, date, size and position.
 Library showcase of your own game banners, with an optional now-playing music card.
 Online wallpapers from Wallhaven, Bing daily photos, WallpaperCave and Wallhalla: 16:9 only, at 2K or 4K, in the topics you pick (gaming, nature, animals; optionally space, cars, cities). Switch between online pictures, game banners, or a mix.
