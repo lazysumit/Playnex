@@ -25,7 +25,7 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 * Open a game's page for a Metacritic headline score and tiles for every platform (PC, PS5, Xbox and so on), with your platform highlighted.
 * Critic and user reviews from Metacritic, Steam reviews, and RAWG, so you still get reviews without a Steam key.
 * Ratings lookup: search any game by name, even ones you don't own.
-![Ratings](docs/screenshots/details-ratings.png)
+![Ratings](https://github.com/lazysumit/Playnex/blob/1cd2effa1c600d825bda5d871cca6f971d8ea405/Live%20Launcher%20Game%20Rating.png)
 
 ## **Screensaver**
 * Idle screensaver with a configurable clock, date, size and position.
