@@ -25,6 +25,7 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 * Open a game's page for a Metacritic headline score and tiles for every platform (PC, PS5, Xbox and so on), with your platform highlighted.
 * Critic and user reviews from Metacritic, Steam reviews, and RAWG, so you still get reviews without a Steam key.
 * Ratings lookup: search any game by name, even ones you don't own.
+
 ![Ratings](https://github.com/lazysumit/Playnex/blob/1cd2effa1c600d825bda5d871cca6f971d8ea405/Live%20Launcher%20Game%20Rating.png)
 
 ## **Screensaver**
@@ -34,7 +35,7 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 * Fetched one picture at a time while the screensaver plays. Nothing is downloaded in bulk.
 * Keep downloaded pictures toggle: off deletes them the moment the launcher closes; on keeps up to 20, 40 or 80 so the screensaver works offline. At the limit, each new picture replaces the oldest.
 * Open folder and Delete pictures buttons to manage the files yourself.
-  
+
 ![Screensaver settings](https://github.com/lazysumit/Playnex/blob/a5fcf4827b98157753d0e9b0fe053817de96a1c1/Live%20Launcher%20Screensaver%20Settings.png)
 
 # **In-game overlay**
