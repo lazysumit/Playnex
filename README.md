@@ -22,21 +22,22 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 * Playtime tracking that records each session while a game runs.
 * Achievements: real Steam achievements (with your Steam Web API key and SteamID) and launcher trophies.
 
-**Ratings and reviews**
+## **Ratings and reviews**
 * Open a game's page for a Metacritic headline score and tiles for every platform (PC, PS5, Xbox and so on), with your platform highlighted.
 * Critic and user reviews from Metacritic, Steam reviews, and RAWG, so you still get reviews without a Steam key.
 * Ratings lookup: search any game by name, even ones you don't own.
 ![Ratings](docs/screenshots/details-ratings.png)
 
-**Screensaver**
-Idle screensaver with a configurable clock, date, size and position.
-Library showcase of your own game banners, with an optional now-playing music card.
-Online wallpapers from Wallhaven, Bing daily photos, WallpaperCave and Wallhalla: 16:9 only, at 2K or 4K, in the topics you pick (gaming, nature, animals; optionally space, cars, cities). Switch between online pictures, game banners, or a mix.
-Fetched one picture at a time while the screensaver plays. Nothing is downloaded in bulk.
-Keep downloaded pictures toggle: off deletes them the moment the launcher closes; on keeps up to 20, 40 or 80 so the screensaver works offline. At the limit, each new picture replaces the oldest.
-Open folder and Delete pictures buttons to manage the files yourself.
+## **Screensaver**
+* Idle screensaver with a configurable clock, date, size and position.
+* Library showcase of your own game banners, with an optional now-playing music card.
+* Online wallpapers from Wallhaven, Bing daily photos, WallpaperCave and Wallhalla: 16:9 only, at 2K or 4K, in the topics you pick (gaming, nature, animals; optionally space, cars, cities). Switch between online pictures, game banners, or a mix.
+* Fetched one picture at a time while the screensaver plays. Nothing is downloaded in bulk.
+* Keep downloaded pictures toggle: off deletes them the moment the launcher closes; on keeps up to 20, 40 or 80 so the screensaver works offline. At the limit, each new picture replaces the oldest.
+* Open folder and Delete pictures buttons to manage the files yourself.
 ![Screensaver settings](docs/screenshots/screensaver-settings.png)
-In-game overlay
+
+# **In-game overlay**
 Press `Ctrl+Shift+G` (changeable) for an overlay with CPU, RAM and GPU usage, over the game.
 Screenshot hotkey (`F11` by default), with a captures gallery.
 Music
