@@ -53,10 +53,11 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 * System tray, notifications, launch at startup, fullscreen "console" mode.
 * Settings are organised into tabs: Appearance, Library, Screensaver, Launcher, Controls, Music, Integrations, Data (backup and export).
 
-Download
+## Download
 Grab the installer from the Releases page: `Game-Launcher-Setup-<version>.exe`. Windows 10 or 11, 64-bit.
-Build it yourself
-You need Node.js 18 or newer on Windows.
+
+# Build it yourself
+* You need Node.js 18 or newer on Windows.
 ```bash
 git clone https://github.com/<your-user>/<your-repo>.git
 cd <your-repo>
@@ -65,15 +66,17 @@ npm start          # run the app
 npm test           # unit tests + privacy check
 npm run dist       # build the installer into dist/
 ```
-On Windows you can also double-click `build-windows.bat`: it checks the project, installs, builds, and checks the finished installer.
-No Windows PC? Run the Build Windows installer workflow on the Actions tab, or push a tag starting with `v` (for example `v1.6.4`), and download the installer from the run's artifacts.
-Optional keys (Settings, Integrations)
-Key	What it does
-SteamGridDB	Better artwork for non-Steam games
-Steam Web API key + SteamID	Real Steam achievements
-RAWG	Extra ratings and metadata
-Keys are stored only in your local settings file. They are never part of the code or the installer.
-Privacy
+* On Windows you can also double-click `build-windows.bat`: it checks the project, installs, builds, and checks the finished installer.
+* No Windows PC? Run the Build Windows installer workflow on the Actions tab, or push a tag starting with `v` (for example `v1.6.4`), and download the installer from the run's artifacts.
+
+# Optional keys (Settings, Integrations)
+* Key	What it does
+* SteamGridDB	Better artwork for non-Steam games
+* Steam Web API key + SteamID	Real Steam achievements
+* RAWG	Extra ratings and metadata
+* Keys are stored only in your local settings file. They are never part of the code or the installer.
+
+## Privacy
 No telemetry, no account, no analytics. The app only contacts the sites needed for artwork, ratings and wallpapers, and only when you use those features.
 The installer is built so it carries no details of the computer it was built on. `tools/privacy-check.js` scans the project before the build and the finished installer after it, looking for the builder's user name, computer name, home folder, user-profile paths, e-mail addresses, private IPs and MAC addresses. If anything is found the build stops and the installer is deleted. Run it any time with `npm run check:privacy`.
 Downloaded wallpapers live in the system temp folder and are deleted when the launcher closes, unless you turn on Keep downloaded pictures (then they sit in the app's data folder until you delete them).
