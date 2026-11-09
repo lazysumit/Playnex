@@ -69,7 +69,7 @@ npm run dist       # build the installer into dist/
 * On Windows you can also double-click `build-windows.bat`: it checks the project, installs, builds, and checks the finished installer.
 * No Windows PC? Run the Build Windows installer workflow on the Actions tab, or push a tag starting with `v` (for example `v1.6.4`), and download the installer from the run's artifacts.
 
-# Optional keys (Settings, Integrations)
+## Optional keys (Settings, Integrations)
 * Key	What it does
 * SteamGridDB	Better artwork for non-Steam games
 * Steam Web API key + SteamID	Real Steam achievements
@@ -77,10 +77,11 @@ npm run dist       # build the installer into dist/
 * Keys are stored only in your local settings file. They are never part of the code or the installer.
 
 ## Privacy
-No telemetry, no account, no analytics. The app only contacts the sites needed for artwork, ratings and wallpapers, and only when you use those features.
-The installer is built so it carries no details of the computer it was built on. `tools/privacy-check.js` scans the project before the build and the finished installer after it, looking for the builder's user name, computer name, home folder, user-profile paths, e-mail addresses, private IPs and MAC addresses. If anything is found the build stops and the installer is deleted. Run it any time with `npm run check:privacy`.
-Downloaded wallpapers live in the system temp folder and are deleted when the launcher closes, unless you turn on Keep downloaded pictures (then they sit in the app's data folder until you delete them).
-Project layout
+* No telemetry, no account, no analytics. The app only contacts the sites needed for artwork, ratings and wallpapers, and only when you use those features.
+* The installer is built so it carries no details of the computer it was built on. `tools/privacy-check.js` scans the project before the build and the finished installer after it, looking for the builder's user name, computer name, home folder, user-profile paths, e-mail addresses, private IPs and MAC addresses. If anything is found the build stops and the installer is deleted. Run it any time with `npm run check:privacy`.
+* Downloaded wallpapers live in the system temp folder and are deleted when the launcher closes, unless you turn on Keep downloaded pictures (then they sit in the app's data folder until you delete them).
+
+## Project layout
 ```
 main/        Electron main process: scanners, tracker, store, ratings, wallpapers, music, overlay
   scanners/  One detector per store (Steam, Epic, Xbox, Ubisoft, EA, Battle.net, GOG, Riot, Rockstar)
@@ -90,12 +91,14 @@ tools/       privacy-check.js
 build/       App icons
 .github/     Windows installer workflow
 ```
-Tests
+## Tests
 `npm test` runs the parser, launch, ratings and wallpaper tests and the privacy check. UI previews (optional, need Playwright): `node tests/ui/screenshots.js ./shots`.
-Notes and disclaimers
-Game Launcher is an independent personal project. It is not affiliated with or endorsed by Sony, Microsoft, Valve, Epic Games, Metacritic, RAWG, or any store or wallpaper site mentioned here. All names and trademarks belong to their owners.
-Ratings, reviews, artwork and wallpapers come from third-party sites and stay the property of their owners. Wallpapers are fetched for personal viewing and are not redistributed by this project.
-Some sources have no official API and are read from their public pages, so they can change or stop working without notice. The app shows a clear message when a source can't be reached.
-The look is inspired by console dashboards; it contains no code or assets from any console.
-License
-MIT
+
+## Notes and disclaimers
+* Game Launcher is an independent personal project. It is not affiliated with or endorsed by Sony, Microsoft, Valve, Epic Games, Metacritic, RAWG, or any store or wallpaper site mentioned here. All names and trademarks belong to their owners.
+* Ratings, reviews, artwork and wallpapers come from third-party sites and stay the property of their owners. Wallpapers are fetched for personal viewing and are not redistributed by this project.
+* Some sources have no official API and are read from their public pages, so they can change or stop working without notice. The app shows a clear message when a source can't be reached.
+* The look is inspired by console dashboards; it contains no code or assets from any console.
+
+##License
+* MIT
