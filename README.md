@@ -15,7 +15,7 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 * **Favourites and collections**, search, sort and filters, and a toggle to hide games you don't want to see.
 * Non-game tools and launchers are filtered out of the library.
 
-# ****Home and profile****
+## ****Home and profile****
 
 * Console-style Home with a big hero, a shelf of games and quick tabs: Continue, Favourites, Most played, Recently added, plus your own collections.
 * Gaming profile with total playtime, sessions, streaks, charts, history, level and trophies.
@@ -38,17 +38,21 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 ![Screensaver settings](docs/screenshots/screensaver-settings.png)
 
 # **In-game overlay**
-Press `Ctrl+Shift+G` (changeable) for an overlay with CPU, RAM and GPU usage, over the game.
-Screenshot hotkey (`F11` by default), with a captures gallery.
-Music
-Detects running music apps (Spotify and others) and shows now playing in the top bar and on the screensaver, with play / pause / skip controls.
-Controller and keyboard
-Full gamepad navigation (D-pad / stick, A select, B back, LB/RB switch tabs, X favourite) and a built-in controller test page.
-Keyboard: `1/2/3/4` Home / Library / Profile / Settings, arrows to move, `Enter` open, `Esc` back, `F` favourite, `/` search, `F10` fullscreen, `F11` screenshot.
-Look and feel
-Dark, light or system theme, several colour themes, custom accent colour and background, glass effect.
-System tray, notifications, launch at startup, fullscreen "console" mode.
-Settings are organised into tabs: Appearance, Library, Screensaver, Launcher, Controls, Music, Integrations, Data (backup and export).
+* Press `Ctrl+Shift+G` (changeable) for an overlay with CPU, RAM and GPU usage, over the game.
+* Screenshot hotkey (`F11` by default), with a captures gallery.
+
+## Music
+* Detects running music apps (Spotify and others) and shows now playing in the top bar and on the screensaver, with play / pause / skip controls.
+
+## Controller and keyboard
+* Full gamepad navigation (D-pad / stick, A select, B back, LB/RB switch tabs, X favourite) and a built-in controller test page.
+* Keyboard: `1/2/3/4` Home / Library / Profile / Settings, arrows to move, `Enter` open, `Esc` back, `F` favourite, `/` search, `F10` fullscreen, `F11` screenshot.
+
+## Look and feel
+* Dark, light or system theme, several colour themes, custom accent colour and background, glass effect.
+* System tray, notifications, launch at startup, fullscreen "console" mode.
+* Settings are organised into tabs: Appearance, Library, Screensaver, Launcher, Controls, Music, Integrations, Data (backup and export).
+
 Download
 Grab the installer from the Releases page: `Game-Launcher-Setup-<version>.exe`. Windows 10 or 11, 64-bit.
 Build it yourself
