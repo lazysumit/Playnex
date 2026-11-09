@@ -5,16 +5,21 @@ A PS5-inspired game launcher for Windows. It finds the games you already have in
 ![Home](https://github.com/lazysumit/Playnex/blob/0694d20ea3bf188d7a427d3dd3a291a319879bb6/Screenshot%202026-11-09%20234715.png)
 
 Screenshots use demo data and placeholder artwork. Ratings shown in previews are sample numbers, not real scores.
+
 **Features**
+
 **Library**
 
 **Automatic game detection** for Steam, Epic Games, Xbox / Game Pass, Ubisoft Connect, EA app, Battle.net, GOG, Riot Games and Rockstar, plus any folder you scan and any custom `.exe` you add.
 
 **Artwork and details** (covers, banners, descriptions, genres, developer, publisher, release date). Steam artwork is used automatically; add a free SteamGridDB key for better art for non-Steam games.
+
 **Favourites and collections**, search, sort and filters, and a toggle to hide games you don't want to see.
+
 Non-game tools and launchers are filtered out of the library.
 
 ****Home and profile****
+
 Console-style Home with a big hero, a shelf of games and quick tabs: Continue, Favourites, Most played, Recently added, plus your own collections.
 Gaming profile with total playtime, sessions, streaks, charts, history, level and trophies.
 Playtime tracking that records each session while a game runs.
