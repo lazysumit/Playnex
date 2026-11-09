@@ -100,5 +100,5 @@ build/       App icons
 * Some sources have no official API and are read from their public pages, so they can change or stop working without notice. The app shows a clear message when a source can't be reached.
 * The look is inspired by console dashboards; it contains no code or assets from any console.
 
-##License
+## License
 * MIT
