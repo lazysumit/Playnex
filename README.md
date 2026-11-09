@@ -17,6 +17,7 @@ Non-game tools and launchers are filtered out of the library.
 ****Home and profile****
 
 Console-style Home with a big hero, a shelf of games and quick tabs: Continue, Favourites, Most played, Recently added, plus your own collections.
+
 Gaming profile with total playtime, sessions, streaks, charts, history, level and trophies.
 Playtime tracking that records each session while a game runs.
 Achievements: real Steam achievements (with your Steam Web API key and SteamID) and launcher trophies.
