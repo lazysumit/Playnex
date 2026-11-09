@@ -13,6 +13,8 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 * **Artwork and details** (covers, banners, descriptions, genres, developer, publisher, release date). Steam artwork is used automatically; add a free SteamGridDB key for better art for non-Steam games.
 * **Favourites and collections**, search, sort and filters, and a toggle to hide games you don't want to see.
 * Non-game tools and launchers are filtered out of the library.
+  
+![Library](https://github.com/lazysumit/Playnex/blob/1fd7d4c3a737bcaf57345ffc6f1176c3498b9e77/library.png)
 
 ## ****Home and profile****
 
