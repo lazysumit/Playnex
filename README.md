@@ -1,4 +1,5 @@
-#Game Launcher
+# Game Launcher
+
 A PS5-inspired game launcher for Windows. It finds the games you already have installed from every major store, puts them in one clean console-style interface, tracks your playtime, shows ratings and reviews, and can turn your PC into a screensaver showcase.
 > Built with Electron. No account, no cloud, no tracking: everything stays on your PC.
 
