@@ -23,6 +23,8 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 * Playtime tracking that records each session while a game runs.
 * Achievements: real Steam achievements (with your Steam Web API key and SteamID) and launcher trophies.
 
+![Home Profile](
+
 ## **Ratings and reviews**
 * Open a game's page for a Metacritic headline score and tiles for every platform (PC, PS5, Xbox and so on), with your platform highlighted.
 * Critic and user reviews from Metacritic, Steam reviews, and RAWG, so you still get reviews without a Steam key.
