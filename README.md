@@ -23,7 +23,7 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 * Playtime tracking that records each session while a game runs.
 * Achievements: real Steam achievements (with your Steam Web API key and SteamID) and launcher trophies.
 
-![Home Profile](
+![Home Profile](https://github.com/lazysumit/Playnex/blob/9fe2c1a8948a707000ac6c45353dbb97acf00209/home.png)
 
 ## **Ratings and reviews**
 * Open a game's page for a Metacritic headline score and tiles for every platform (PC, PS5, Xbox and so on), with your platform highlighted.
