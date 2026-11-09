@@ -11,10 +11,8 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 
 * **Automatic game detection** for Steam, Epic Games, Xbox / Game Pass, Ubisoft Connect, EA app, Battle.net, GOG, Riot Games and Rockstar, plus any folder you scan and any custom `.exe` you add.
 * **Artwork and details** (covers, banners, descriptions, genres, developer, publisher, release date). Steam artwork is used automatically; add a free SteamGridDB key for better art for non-Steam games.
-
-**Favourites and collections**, search, sort and filters, and a toggle to hide games you don't want to see.
-
-Non-game tools and launchers are filtered out of the library.
+* **Favourites and collections**, search, sort and filters, and a toggle to hide games you don't want to see.
+* Non-game tools and launchers are filtered out of the library.
 
 ****Home and profile****
 
