@@ -55,6 +55,8 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 * Press `Ctrl+Shift+G` (changeable) for an overlay with CPU, RAM and GPU usage, over the game.
 * Screenshot hotkey (`F11` by default), with a captures gallery.
 
+![Overlay](https://github.com/lazysumit/Playnex/blob/e58448d2cf2c8d21f55c124d2f1b0d73392a1cb4/Overlay%20Live.png)
+
 ## Music
 * Detects running music apps (Spotify and others) and shows now playing in the top bar and on the screensaver, with play / pause / skip controls.
 
