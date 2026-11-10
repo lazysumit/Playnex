@@ -60,6 +60,8 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 ## Music
 * Detects running music apps (Spotify and others) and shows now playing in the top bar and on the screensaver, with play / pause / skip controls.
 
+![Music](https://github.com/lazysumit/Playnex/blob/bad3f061798d1e78adaa8df09e35b85923a00713/Music%20Live.png)
+
 ## Look and feel
 * Dark, light or system theme, several colour themes, custom accent colour and background, glass effect.
 * System tray, notifications, launch at startup, fullscreen "console" mode.
