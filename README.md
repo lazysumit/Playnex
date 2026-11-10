@@ -25,6 +25,10 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 
 ![Home Profile](https://github.com/lazysumit/Playnex/blob/9fe2c1a8948a707000ac6c45353dbb97acf00209/home.png)
 
+## Controller, keyboard and built-in Controller Test page
+* Full gamepad navigation (D-pad / stick, A select, B back, LB/RB switch tabs, X favourite) and a built-in controller test page.
+* Keyboard: `1/2/3/4` Home / Library / Profile / Settings, arrows to move, `Enter` open, `Esc` back, `F` favourite, `/` search, `F10` fullscreen, `F11` screenshot.
+
 ## **Ratings and reviews**
 * Open a game's page for a Metacritic headline score and tiles for every platform (PC, PS5, Xbox and so on), with your platform highlighted.
 * Critic and user reviews from Metacritic, Steam reviews, and RAWG, so you still get reviews without a Steam key.
@@ -48,10 +52,6 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 
 ## Music
 * Detects running music apps (Spotify and others) and shows now playing in the top bar and on the screensaver, with play / pause / skip controls.
-
-## Controller and keyboard
-* Full gamepad navigation (D-pad / stick, A select, B back, LB/RB switch tabs, X favourite) and a built-in controller test page.
-* Keyboard: `1/2/3/4` Home / Library / Profile / Settings, arrows to move, `Enter` open, `Esc` back, `F` favourite, `/` search, `F10` fullscreen, `F11` screenshot.
 
 ## Look and feel
 * Dark, light or system theme, several colour themes, custom accent colour and background, glass effect.
