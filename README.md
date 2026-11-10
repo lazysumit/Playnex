@@ -28,7 +28,7 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 ## Controller, keyboard and built-in Controller Test page
 * Full gamepad navigation (D-pad / stick, A select, B back, LB/RB switch tabs, X favourite) and a built-in controller test page.
 * Keyboard: `1/2/3/4` Home / Library / Profile / Settings, arrows to move, `Enter` open, `Esc` back, `F` favourite, `/` search, `F10` fullscreen, `F11` screenshot.
-![Controller Test] ()
+![Controller Test](https://github.com/lazysumit/Playnex/blob/e7400a454d01ad02f3bc2a48c954d1291974b8cb/Controller%20Test%20page.png)
 
 ## **Ratings and reviews**
 * Open a game's page for a Metacritic headline score and tiles for every platform (PC, PS5, Xbox and so on), with your platform highlighted.
