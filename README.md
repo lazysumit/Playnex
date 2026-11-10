@@ -48,6 +48,9 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 
 ![Screensaver settings](https://github.com/lazysumit/Playnex/blob/a5fcf4827b98157753d0e9b0fe053817de96a1c1/Live%20Launcher%20Screensaver%20Settings.png)
 
+![Screensaver Live 1](https://github.com/lazysumit/Playnex/blob/4852de4d64288017e5d6fc9e8f67b992a0e4e587/Screensaver%20Live%201.png)
+![Screensaver Live 2](https://github.com/lazysumit/Playnex/blob/52015c2276b5498e912a0944eb5b8da5eade1d85/Screensaver%20Live%202.png)
+
 # **In-game overlay**
 * Press `Ctrl+Shift+G` (changeable) for an overlay with CPU, RAM and GPU usage, over the game.
 * Screenshot hotkey (`F11` by default), with a captures gallery.
