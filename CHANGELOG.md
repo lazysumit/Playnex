@@ -2,9 +2,20 @@
 
 All notable changes to PLAYNEX. Newest first.
 
+## 1.8.0
+- **Added: PLAYNEX Remote.** Control the PC from your phone: see the running game, take a screenshot, control music, quit the game, and shut down or restart the PC. It is a web app that the PC serves and you add to the Android home screen. Off by default, with one-time pairing codes and a secret token per phone. See `docs/REMOTE.md`.
+- **Added:** Settings, Remote tab with **Shut down** and **Restart** (10-second countdown, cancel any time) and an option to force-close open apps.
+- **Added:** paired phones list with a Remove button, and a switch to allow or block shut down / restart from the phone.
+
+## 1.7.2
+- **Fixed:** the installer now upgrades the existing install instead of installing a second copy. The 1.7.0 and 1.7.1 installers carried a new internal ID, so Windows saw PLAYNEX as a different app. The ID is restored, and a test now fails the build if it is ever changed again.
+
+## 1.7.1
+- **Changed:** the PLAYNEX name is no longer shown on the top bar by default. A new switch in Settings, Data, About ("Show PLAYNEX name on the top bar") turns it on.
+
 ## 1.7.0
 - **Renamed to PLAYNEX** with the tagline *EVERY GAME. ONE DESTINATION*. The app, installer (`PLAYNEX-Setup-<version>.exe`), window title, tray, overlay, shortcuts and docs all use the new name.
-- **Added:** PLAYNEX wordmark in the top bar and the tagline in Settings, About.
+- **Added:** optional PLAYNEX wordmark in the top bar and the tagline in Settings, About.
 - **Kept your data:** on first start the new version copies the library, settings and artwork from the old "Game Launcher" data folder, and renames the old screenshots folder, so nothing is lost.
 - **Changed:** the installer's file description is now just the tagline.
 
