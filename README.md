@@ -57,6 +57,14 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 
 ![Overlay](https://github.com/lazysumit/Playnex/blob/e58448d2cf2c8d21f55c124d2f1b0d73392a1cb4/Overlay%20Live.png)
 
+### Phone remote (Android)
+- Pair your phone once, then see which game is running, **take a screenshot**, **control music**, **quit the game**, and **shut down or restart the PC**, from anywhere on your network or VPN.
+- Off by default. One-time pairing code, a secret token per phone, and paired phones can be removed at any time.
+- **Shut down / Restart** are also on the PC under Settings, Remote, with a 10-second cancel window.
+- Setup and security details: [docs/REMOTE.md](docs/REMOTE.md).
+
+![Remote Access](https://github.com/lazysumit/Playnex/blob/cbae428b6764c4cbe5bfabe9ce95cc1ccdcc7622/phone-remote.png) ![Remote Settings](https://github.com/lazysumit/Playnex/blob/cbae428b6764c4cbe5bfabe9ce95cc1ccdcc7622/remote-settings.png)
+
 ## Music
 * Detects running music apps (Spotify and others) and shows now playing in the top bar and on the screensaver, with play / pause / skip controls.
 
