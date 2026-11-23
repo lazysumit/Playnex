@@ -60,7 +60,8 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 ## Stores and prices
 *Stores tab: search a game and compare prices across official stores and authorised key sellers, cheapest first, with the discount, the lowest price ever recorded, and Steam and Metacritic scores. Pick your region and currency (Steam shows its real local price; other stores are converted and marked as estimates). Links only open on a fixed list of official store sites.
 
-![Store and Price]()
+![Store and Price](https://github.com/lazysumit/Playnex/blob/521fe0ad67c401c66b29a3020d88ea8f7bf86c01/Store%20and%20Price.png)
+![Store and Price](https://github.com/lazysumit/Playnex/blob/521fe0ad67c401c66b29a3020d88ea8f7bf86c01/Store%20and%20Price%20Details.png)
 
 ## Interface styles and login
 * Interface styles: the original PLAYNEX look (default, unchanged) plus complete alternatives for every screen: Neon Tokyo, Library Sidebar, Studio Light, Studio Dark and Aurora Glass. Settings, Appearance, Interface style.
