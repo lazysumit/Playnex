@@ -53,11 +53,36 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 
 # **In-game overlay**
 * Press `Ctrl+Shift+G` (changeable) for an overlay with CPU, RAM and GPU usage, over the game.
-* Screenshot hotkey (`F11` by default), with a captures gallery.
+* Screenshot hotkey (`F10` by default), with a captures gallery.
 
 ![Overlay](https://github.com/lazysumit/Playnex/blob/e58448d2cf2c8d21f55c124d2f1b0d73392a1cb4/Overlay%20Live.png)
 
-### Phone remote (Android)
+## Stores and prices
+*Stores tab: search a game and compare prices across official stores and authorised key sellers, cheapest first, with the discount, the lowest price ever recorded, and Steam and Metacritic scores. Pick your region and currency (Steam shows its real local price; other stores are converted and marked as estimates). Links only open on a fixed list of official store sites.
+
+![Store and Price]()
+
+## Interface styles and login
+* Interface styles: the original PLAYNEX look (default, unchanged) plus complete alternatives for every screen: Neon Tokyo, Library Sidebar, Studio Light, Studio Dark and Aurora Glass. Settings, Appearance, Interface style.
+* Display size: zoom everything from 50% to 200% (Settings, Appearance) or with `Ctrl +`, `Ctrl -` and `Ctrl 0`. Big screens (1080p, 1440p, 4K) are scaled automatically, and every screen of a style uses the same size.
+* Choose your logo: Classic, Neon Outline, Studio Sunrise or Glow Dark (all game controllers), with an option to hide the name next to it. It also changes the window and tray icon.
+* Login screen (optional, off by default): four switchable styles, Who's playing?, Lock screen, Key art sign in and a Controller where you press the glowing button for an animated unlock, with its own sounds. Optional 4 to 8 digit PIN (stored only as a salted hash on your PC), recovery key, auto-lock and `Ctrl+L`. This is a privacy screen, not file encryption.
+* Interface sounds (optional, generated in the app) with eight sound packs: Launcher, Modern, Cyberpunk, Robotic, Games, Memes, Zen and Minimal.
+
+![Interface]()
+
+## Look and feel
+* Dark, light or system theme, several colour themes, custom accent colour and background, glass effect.
+* System tray, notifications, launch at startup, fullscreen "console" mode.
+* Settings are organised into tabs: Appearance, Library, Screensaver, Launcher, Controls, Music, Integrations, Data (backup and export).
+
+## Artwork that changes by itself
+With a SteamGridDB key, every game cycles through different covers, banners, logos (including animated GIF/WebP) and icons, every 30 minutes by default (10 minutes to 12 hours).
+Settings, Integrations: on/off, Pause, interval, choose which types change, Change now, and Back to default artwork. A game's original artwork is never deleted, and you can pin one game's art. Your own custom art is never replaced.
+
+![Artwork]()
+
+## Phone remote (Android)
 - Pair your phone once, then see which game is running, **take a screenshot**, **control music**, **quit the game**, and **shut down or restart the PC**, from anywhere on your network or VPN.
 - Off by default. One-time pairing code, a secret token per phone, and paired phones can be removed at any time.
 - **Shut down / Restart** are also on the PC under Settings, Remote, with a 10-second cancel window.
@@ -69,11 +94,6 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 * Detects running music apps (Spotify and others) and shows now playing in the top bar and on the screensaver, with play / pause / skip controls.
 
 ![Music](https://github.com/lazysumit/Playnex/blob/bad3f061798d1e78adaa8df09e35b85923a00713/Music%20Live.png)
-
-## Look and feel
-* Dark, light or system theme, several colour themes, custom accent colour and background, glass effect.
-* System tray, notifications, launch at startup, fullscreen "console" mode.
-* Settings are organised into tabs: Appearance, Library, Screensaver, Launcher, Controls, Music, Integrations, Data (backup and export).
 
 ## Download
 Grab the installer from the Releases page: `Game-Launcher-Setup-<version>.exe`. Windows 10 or 11, 64-bit.
