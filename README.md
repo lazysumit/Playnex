@@ -70,18 +70,23 @@ Screenshots use demo data and placeholder artwork. Ratings shown in previews are
 * Login screen (optional, off by default): four switchable styles, Who's playing?, Lock screen, Key art sign in and a Controller where you press the glowing button for an animated unlock, with its own sounds. Optional 4 to 8 digit PIN (stored only as a salted hash on your PC), recovery key, auto-lock and `Ctrl+L`. This is a privacy screen, not file encryption.
 * Interface sounds (optional, generated in the app) with eight sound packs: Launcher, Modern, Cyberpunk, Robotic, Games, Memes, Zen and Minimal.
 
-![Interface]()
+![Interface](https://github.com/lazysumit/Playnex/blob/aed9d3a7bbfbc0fafb1e0f08d5e53a6fef4f1219/NEON%20Theme.png)
+![Interface](https://github.com/lazysumit/Playnex/blob/aed9d3a7bbfbc0fafb1e0f08d5e53a6fef4f1219/Login%20Interface%202.png)
+![Interface](https://github.com/lazysumit/Playnex/blob/aed9d3a7bbfbc0fafb1e0f08d5e53a6fef4f1219/Login%20Interface.png)
 
 ## Look and feel
 * Dark, light or system theme, several colour themes, custom accent colour and background, glass effect.
 * System tray, notifications, launch at startup, fullscreen "console" mode.
 * Settings are organised into tabs: Appearance, Library, Screensaver, Launcher, Controls, Music, Integrations, Data (backup and export).
 
+![Look and feel](https://github.com/lazysumit/Playnex/blob/aed9d3a7bbfbc0fafb1e0f08d5e53a6fef4f1219/Settings%20Appearance.png)
+![Look and feel](https://github.com/lazysumit/Playnex/blob/aed9d3a7bbfbc0fafb1e0f08d5e53a6fef4f1219/Themes%20to%20choose.png)
+
 ## Artwork that changes by itself
 With a SteamGridDB key, every game cycles through different covers, banners, logos (including animated GIF/WebP) and icons, every 30 minutes by default (10 minutes to 12 hours).
 Settings, Integrations: on/off, Pause, interval, choose which types change, Change now, and Back to default artwork. A game's original artwork is never deleted, and you can pin one game's art. Your own custom art is never replaced.
 
-![Artwork]()
+![Artwork](https://github.com/lazysumit/Playnex/blob/fdff451ef40c302a1246ebe9f32dad2b2331de4b/Integrations%20Artwork.png)
 
 ## Phone remote (Android)
 - Pair your phone once, then see which game is running, **take a screenshot**, **control music**, **quit the game**, and **shut down or restart the PC**, from anywhere on your network or VPN.
